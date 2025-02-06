@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#outer{
+    display: flex;
+    justify-content: center;
+}
+
+/* .line1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 10px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
+
+.flash{
+    background-color: white;
+}
